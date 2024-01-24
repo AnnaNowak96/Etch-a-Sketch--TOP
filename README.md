@@ -1,4 +1,5 @@
-# Etch-a-Sketch--TOP
+# Etch-a-Sketch--TOP  
+Project created during The Odin Project course (TOP)  
 Create a box 16x16 divs that will be a blank note. When you move a mouse over it it will change a color of every touched div.  
 You have to selec if you want to paint in black or in rainbow. Black leaves a black mark and rainbow leaves every div in randomly selected color.  
 You can change the size of a amount of dives inside a box. You can select between 1-100. The size of the bos won't change, only the size and amount of dives inside it. If you select another number theen assumed it will alert you to chose between 1-100.  
